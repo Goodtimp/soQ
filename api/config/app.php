@@ -19,12 +19,12 @@ return array(
 	//  */
 	// 'Qiniu' =>  array(
 	// 	//统一的key
-	// 	'access_key' => '9fohNAVr7vA0PPDVnnlX1qLB0sYldEja_h3aq4nw',
-	// 	'secret_key' => 'iU5sAQ6SrVpLZ7p8f9aIUmf3umXw4fwvBTs87ibN',
+	// 	'access_key' => '',
+	// 	'secret_key' => '',
 	// 	//自定义配置的空间
-	// 	'space_bucket' => 'goodtimp',
-	// 	'space_host' => 'http://pocqqayls.bkt.clouddn.com', // 如果有配置此项，则优先使用此域名
-	// 	'preffix' => 'vNote_', // 上传文件名前缀
+	// 	'space_bucket' => '',
+	// 	'space_host' => '', // 如果有配置此项，则优先使用此域名
+	// 	'preffix' => '', // 上传文件名前缀
 	// ),
 	  /**
      * 阿里云OSS相关配置
